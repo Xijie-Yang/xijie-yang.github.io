@@ -34,11 +34,11 @@ function App() {
       <p>
         Mentored by{" "}
         <a href="https://eveneveno.github.io/lnxu/" title="徐霖宁">
-          Linning Xu
+          Dr. Linning Xu
         </a>{" "}
         and{" "}
         <a href="https://mulinyu.github.io" title="于沐霖">
-          Mulin Yu
+          Dr. Mulin Yu
         </a>
         ; Supervised by{" "}
         <a href="https://datascience.hku.hk/people/bo-dai/" title="戴勃">
@@ -100,6 +100,9 @@ function App() {
       <p></p>
       <p>
         <a href="https://orcid.org/0009-0009-3076-2595">ORCID</a>,{" "}
+        <a href="https://scholar.google.com/citations?user=dP5NZVgAAAAJ">
+          Google Scholar
+        </a>{" "}
         <a href="https://github.com/Yang-Xijie">GitHub/Yang-Xijie</a>,{" "}
         <a href="https://github.com/Xijie-Yang">GitHub/Xijie-Yang</a>,{" "}
         <a href="https://xijie-yang.github.io/SDG/">SDG Publications</a>
