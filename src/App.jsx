@@ -22,14 +22,14 @@ function App() {
         >
           CS @ Zhejiang University
         </a>{" "}
-        (ZJU) | Intern in{" "}
+        <small>(ZJU)</small> | Intern in{" "}
         <a
           href="https://www.shlab.org.cn"
           title="上海人工智能实验室具身智能中心"
         >
           Embodied AI Center @ Shanghai Artificial Intelligence Laboratory
         </a>{" "}
-        (SH AILAB)
+        <small>(SH AILAB)</small>
       </p>
       <p>
         Mentored by{" "}
@@ -60,7 +60,7 @@ function App() {
         <a href="https://www.ee.tsinghua.edu.cn/en/" title="清华大学电子工程系">
           EE @ Tsinghua University
         </a>{" "}
-        (THU)
+        <small>(THU)</small>
       </p>
 
       <h2>Publications</h2>
@@ -102,8 +102,8 @@ function App() {
         <a href="https://orcid.org/0009-0009-3076-2595">ORCID</a>,{" "}
         <a href="https://scholar.google.com/citations?user=dP5NZVgAAAAJ">
           Google Scholar
-        </a>{" "}
-        <a href="https://github.com/Yang-Xijie">GitHub/Yang-Xijie</a>,{" "}
+        </a>
+        , <a href="https://github.com/Yang-Xijie">GitHub/Yang-Xijie</a>,{" "}
         <a href="https://github.com/Xijie-Yang">GitHub/Xijie-Yang</a>,{" "}
         <a href="https://xijie-yang.github.io/SDG/">SDG Publications</a>
       </p>
@@ -112,20 +112,22 @@ function App() {
         <a href="https://www.xiaohongshu.com/user/profile/61be0cc10000000021024369">
           RedNote
         </a>{" "}
-        (Chinese Social Media),{" "}
-        <a href="https://space.bilibili.com/24502827">Bilibili</a> (Chinese
-        Video Platform),{" "}
-        <a href="https://yang-xijie.github.io/">Chinese Personal Homepage</a>
+        <small>(Chinese Social Media)</small>,{" "}
+        <a href="https://space.bilibili.com/24502827">Bilibili</a>{" "}
+        <small>(Chinese Video Platform)</small>,{" "}
+        <a href="https://yang-xijie.github.io/">Personal Homepage</a>{" "}
+        <small>(Chinese)</small>
       </p>
 
       <h2>Others</h2>
 
       <p>
-        Honors: Honor for Graduates – Excellence in Academic Innovation (2025,
-        ZJU) , Outstanding Graduate Leader Award (2024, ZJU), Award of Honor for
-        Graduate (2024, ZJU), Outstanding Scholarship for Scientific and
-        Technological Innovation (2021, THU), Outstanding Award for Social
-        Practice (2020, THU)
+        Honors: Honor for Graduates – Excellence in Academic Innovation{" "}
+        <small>(2025, ZJU)</small>, Outstanding Graduate Leader Award{" "}
+        <small>(2024, ZJU)</small>, Award of Honor for Graduate{" "}
+        <small>(2024, ZJU)</small>, Outstanding Scholarship for Scientific and
+        Technological Innovation <small>(2021, THU)</small>, Outstanding Award
+        for Social Practice <small>(2020, THU)</small>
       </p>
       <p>
         Programming: <a href="https://www.python.org">Python</a>,{" "}
@@ -148,10 +150,14 @@ function App() {
         <a href="https://github.com/Racoon-Book/Racoon-Account-Book">
           RacoonAccountBook
         </a>{" "}
-        (Second Prize in 2021 Mobile Application Innovation Contest),{" "}
-        <a href="https://www.bilibili.com/video/BV1Jd4y1g7eX/">Audioc</a>{" "}
-        (Second Prize in 2022 Mobile Application Innovation Contest),{" "}
-        <a href="https://github.com/Ex-Studio/ExSticky">ExSticky</a>
+        <small>
+          (Second Prize in 2021 Mobile Application Innovation Contest)
+        </small>
+        , <a href="https://www.bilibili.com/video/BV1Jd4y1g7eX/">Audioc</a>{" "}
+        <small>
+          (Second Prize in 2022 Mobile Application Innovation Contest)
+        </small>
+        , <a href="https://github.com/Ex-Studio/ExSticky">ExSticky</a>
       </p>
 
       <p>Languages: native Chinese, fluent English, beginner Japanese</p>
