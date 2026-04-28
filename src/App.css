@@ -1,0 +1,99 @@
+#root {
+  width: min(100% - 32px, 920px);
+  margin: 0 auto;
+  padding: clamp(30px, 5vw, 56px) 0;
+}
+
+h1,
+h2,
+h3,
+p {
+  margin-top: 0;
+}
+
+h1 {
+  max-width: 920px;
+  margin-bottom: clamp(22px, 4vw, 34px);
+  color: var(--text);
+  font-size: clamp(1.9rem, 4vw, 3.2rem);
+  line-height: 1;
+  letter-spacing: 0;
+}
+
+h2 {
+  margin: clamp(20px, 3vw, 30px) 0 18px;
+  padding-top: clamp(2px, 1vw, 8px);
+  color: var(--text);
+  font-size: clamp(1.32rem, 3vw, 2rem);
+  line-height: 1.08;
+  letter-spacing: 0;
+}
+
+h1 + h2 {
+  margin-top: 0;
+}
+
+h3 {
+  margin: 18px 0 8px;
+  color: var(--text);
+  font-size: clamp(1.02rem, 1.8vw, 1.16rem);
+  line-height: 1.2;
+  letter-spacing: 0;
+}
+
+h2 + h3 {
+  margin-top: 0;
+}
+
+p {
+  max-width: 820px;
+  margin-bottom: 10px;
+  color: var(--text);
+  font-size: clamp(1rem, 1.8vw, 1.08rem);
+  line-height: 1.72;
+}
+
+p:empty {
+  display: none;
+}
+
+span[title] {
+  font-weight: 760;
+}
+
+strong {
+  color: var(--text);
+  font-weight: 760;
+}
+
+small {
+  color: var(--text);
+  font-size: 0.86em;
+}
+
+a {
+  border-radius: 4px;
+}
+
+h2 + p span[title],
+h2 + p a,
+h2 + p + p a {
+  color: var(--accent-strong);
+}
+
+@media (max-width: 560px) {
+  #root {
+    width: min(100% - 24px, 920px);
+    padding-top: 28px;
+    padding-bottom: 44px;
+  }
+
+  h1 {
+    margin-bottom: 24px;
+  }
+
+  h2 {
+    margin-top: 22px;
+    margin-bottom: 16px;
+  }
+}

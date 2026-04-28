@@ -7,22 +7,24 @@ function App() {
 
       {/* WIP a brief introduction */}
 
-      <h2>About Me</h2>
+      <h2>About</h2>
 
       <p>
         <span title="杨希杰">Xijie Yang</span>
       </p>
 
-      <p>(2023-present)</p>
+      <h3>
+        <strong>(2023-present)</strong>
+      </h3>
       <p>
-        Ph.D. candidate in{" "}
+        <strong>Ph.D. candidate</strong> in{" "}
         <a
           href="http://www.en.cs.zju.edu.cn"
           title="浙江大学计算机科学与技术学院"
         >
           CS @ Zhejiang University
         </a>{" "}
-        <small>(ZJU)</small> | Intern in{" "}
+        <small>(ZJU)</small> | <strong>Intern</strong> in{" "}
         <a
           href="https://www.shlab.org.cn"
           title="上海人工智能实验室具身智能中心"
@@ -32,7 +34,7 @@ function App() {
         <small>(SH AILAB)</small>
       </p>
       <p>
-        Mentored by{" "}
+        <strong>Mentored</strong> by{" "}
         <a href="https://eveneveno.github.io/lnxu/" title="徐霖宁">
           Dr. Linning Xu
         </a>{" "}
@@ -40,7 +42,7 @@ function App() {
         <a href="https://mulinyu.github.io" title="于沐霖">
           Dr. Mulin Yu
         </a>
-        ; Supervised by{" "}
+        ; <strong>Supervised</strong> by{" "}
         <a href="https://datascience.hku.hk/people/bo-dai/" title="戴勃">
           Prof. Bo Dai
         </a>{" "}
@@ -51,10 +53,12 @@ function App() {
         .
       </p>
       <p>
-        Research Interests: 3D Reconstruction, Differentiable Rendering, 3D
-        Representation, Interaction
+        <strong>Research Interests:</strong> 3D Reconstruction, Differentiable
+        Rendering, 3D Representation, Interaction
       </p>
-      <p>(2019-2023)</p>
+      <h3>
+        <strong>(2019-2023)</strong>
+      </h3>
       <p>
         B.S. in{" "}
         <a href="https://www.ee.tsinghua.edu.cn/en/" title="清华大学电子工程系">
@@ -67,14 +71,14 @@ function App() {
 
       {/* WIP add authors, teaser, abs / brief intro */}
       <p>
-        V3DG (SIGGRAPH 2025):{" "}
+        <strong>V3DG (SIGGRAPH 2025):</strong>{" "}
         <a href="https://xijie-yang.github.io/V3DG/">Project Page</a>,{" "}
         <a href="https://arxiv.org/abs/2505.06523">Paper (arXiv)</a>,{" "}
         <a href="https://doi.org/10.1145/3721238.3730602">Paper (Publisher)</a>,{" "}
         <a href="https://github.com/city-super/V3DG">Code</a>
       </p>
       <p>
-        EAG-PT (SIGGRAPH 2026):{" "}
+        <strong>EAG-PT (SIGGRAPH 2026):</strong>{" "}
         <a href="https://eag-pt.github.io">[WIP] Project Page</a>,{" "}
         <a href="https://arxiv.org/abs/2601.23065">Paper (arXiv)</a>,{" "}
         <a href="https://doi.org/10.1145/3799902.3811054">
@@ -83,22 +87,25 @@ function App() {
         , <a href="https://github.com/InternRobotics/EAG-PT">[WIP] Code</a>
       </p>
 
-      <h2>Contact Me</h2>
+      <h2>Contact</h2>
 
       <p>
-        Personal Email: <a href="mailto:564197835@qq.com">564197835@qq.com</a>
+        <strong>Personal Email:</strong>{" "}
+        <a href="mailto:564197835@qq.com">564197835@qq.com</a>
       </p>
       <p>
-        Affliation Emails:{" "}
+        <strong>Affliation Emails:</strong>{" "}
         <a href="mailto:yangxijie@pjlab.org.cn">yangxijie@pjlab.org.cn</a>,{" "}
         <a href="mailto:yangxijie@zju.edu.cn">yangxijie@zju.edu.cn</a>
       </p>
-      <p>WeChat: y564197835</p>
+      <p>
+        <strong>WeChat:</strong> y564197835
+      </p>
 
       <h2>Links</h2>
 
-      <p></p>
       <p>
+        <strong>Research:</strong>{" "}
         <a href="https://orcid.org/0009-0009-3076-2595">ORCID</a>,{" "}
         <a href="https://scholar.google.com/citations?user=dP5NZVgAAAAJ">
           Google Scholar
@@ -109,6 +116,7 @@ function App() {
       </p>
 
       <p>
+        <strong>Life:</strong>{" "}
         <a href="https://www.xiaohongshu.com/user/profile/61be0cc10000000021024369">
           RedNote
         </a>{" "}
@@ -119,10 +127,11 @@ function App() {
         <small>(Chinese)</small>
       </p>
 
-      <h2>Others</h2>
+      <h2>Miscellaneous</h2>
 
       <p>
-        Honors: Honor for Graduates – Excellence in Academic Innovation{" "}
+        <strong>Honors:</strong> Honor for Graduates – Excellence in Academic
+        Innovation{" "}
         <small>(2025, ZJU)</small>, Outstanding Graduate Leader Award{" "}
         <small>(2024, ZJU)</small>, Award of Honor for Graduate{" "}
         <small>(2024, ZJU)</small>, Outstanding Scholarship for Scientific and
@@ -130,7 +139,8 @@ function App() {
         for Social Practice <small>(2020, THU)</small>
       </p>
       <p>
-        Programming: <a href="https://www.python.org">Python</a>,{" "}
+        <strong>Programming:</strong> <a href="https://www.python.org">Python</a>
+        ,{" "}
         <a href="https://pytorch.org">PyTorch</a>,{" "}
         <a href="https://developer.nvidia.com/cuda">CUDA</a>,{" "}
         <a href="https://developer.apple.com/metal/">Metal</a>; App dev:{" "}
@@ -142,7 +152,7 @@ function App() {
         <a href="https://www.apple.com/final-cut-pro/">FCP</a>
       </p>
       <p>
-        Interesting Projects:{" "}
+        <strong>Interesting Projects:</strong>{" "}
         <a href="https://space.bilibili.com/24502827/lists/139476">
           C++ on macOS Tutorial
         </a>
@@ -160,10 +170,14 @@ function App() {
         , <a href="https://github.com/Ex-Studio/ExSticky">ExSticky</a>
       </p>
 
-      <p>Languages: native Chinese, fluent English, beginner Japanese</p>
+      <p>
+        <strong>Languages:</strong> native Chinese, fluent English, beginner
+        Japanese
+      </p>
 
       <p>
-        Interests: <a href="https://developer.apple.com/macos/">macOS</a>,{" "}
+        <strong>Interests:</strong>{" "}
+        <a href="https://developer.apple.com/macos/">macOS</a>,{" "}
         <a href="https://yang-xijie.github.io/2/Anime/anime-rating-extraordinary/">
           Anime
         </a>
