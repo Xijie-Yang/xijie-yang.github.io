@@ -139,7 +139,7 @@ function App() {
         for Social Practice <small>(2020, THU)</small>
       </p>
       <p>
-        <strong>Programming:</strong> <a href="https://www.python.org">Python</a>
+        <strong>Tech Stack:</strong> Programming: <a href="https://www.python.org">Python</a>
         ,{" "}
         <a href="https://pytorch.org">PyTorch</a>,{" "}
         <a href="https://developer.nvidia.com/cuda">CUDA</a>,{" "}
