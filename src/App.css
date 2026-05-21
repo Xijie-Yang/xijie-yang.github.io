@@ -57,6 +57,29 @@ p:empty {
   display: none;
 }
 
+.paper-intro {
+  max-width: 760px;
+  margin-top: -2px;
+  margin-bottom: 12px;
+  font-size: clamp(0.96rem, 1.6vw, 1.02rem);
+  line-height: 1.66;
+}
+
+.publication-image {
+  display: block;
+  width: min(100%, 820px);
+  height: auto;
+  margin: 8px 0 18px;
+  border-radius: 8px;
+  box-shadow: var(--shadow);
+}
+
+@media (min-width: 760px) {
+  .publication-image {
+    width: min(60%, 492px);
+  }
+}
+
 span[title] {
   font-weight: 760;
 }
