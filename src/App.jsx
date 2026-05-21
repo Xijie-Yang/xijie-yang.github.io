@@ -79,12 +79,13 @@ function App() {
       </p>
       <p>
         <strong>EAG-PT (SIGGRAPH 2026):</strong>{" "}
-        <a href="https://eag-pt.github.io">[WIP] Project Page</a>,{" "}
-        <a href="https://arxiv.org/abs/2601.23065">Paper (arXiv)</a>,{" "}
-        <a href="https://doi.org/10.1145/3799902.3811054">
+        <a href="https://eag-pt.github.io">Project Page</a>,{" "}
+        <a href="https://arxiv.org/abs/2601.23065">Paper</a>,{" "}
+        {/* <a href="https://doi.org/10.1145/3799902.3811054">
           [WIP] Paper (Publisher)
         </a>
-        , <a href="https://github.com/InternRobotics/EAG-PT">[WIP] Code</a>
+        ,  */}
+        <a href="https://github.com/InternRobotics/EAG-PT">Code</a>
       </p>
 
       <h2>Contact</h2>
@@ -130,17 +131,8 @@ function App() {
       <h2>Miscellaneous</h2>
 
       <p>
-        <strong>Honors:</strong> Honor for Graduates – Excellence in Academic
-        Innovation{" "}
-        <small>(2025, ZJU)</small>, Outstanding Graduate Leader Award{" "}
-        <small>(2024, ZJU)</small>, Award of Honor for Graduate{" "}
-        <small>(2024, ZJU)</small>, Outstanding Scholarship for Scientific and
-        Technological Innovation <small>(2021, THU)</small>, Outstanding Award
-        for Social Practice <small>(2020, THU)</small>
-      </p>
-      <p>
-        <strong>Tech Stack:</strong> Programming: <a href="https://www.python.org">Python</a>
-        ,{" "}
+        <strong>Tech Stack:</strong> Programming:{" "}
+        <a href="https://www.python.org">Python</a>,{" "}
         <a href="https://pytorch.org">PyTorch</a>,{" "}
         <a href="https://developer.nvidia.com/cuda">CUDA</a>,{" "}
         <a href="https://developer.apple.com/metal/">Metal</a>; App dev:{" "}
@@ -151,6 +143,7 @@ function App() {
         <a href="https://www.apple.com/in/keynote/">Keynote</a>,{" "}
         <a href="https://www.apple.com/final-cut-pro/">FCP</a>
       </p>
+
       <p>
         <strong>Interesting Projects:</strong>{" "}
         <a href="https://space.bilibili.com/24502827/lists/139476">
@@ -168,6 +161,20 @@ function App() {
           (Second Prize in 2022 Mobile Application Innovation Contest)
         </small>
         , <a href="https://github.com/Ex-Studio/ExSticky">ExSticky</a>
+      </p>
+
+      <p>
+        <strong>Honors:</strong> Honor for Graduates – Excellence in Academic
+        Innovation <small>(2025, ZJU)</small>, Outstanding Graduate Leader Award{" "}
+        <small>(2024, ZJU)</small>, Award of Honor for Graduate{" "}
+        <small>(2024, ZJU)</small>, Outstanding Scholarship for Scientific and
+        Technological Innovation <small>(2021, THU)</small>, Outstanding Award
+        for Social Practice <small>(2020, THU)</small>
+      </p>
+
+      <p>
+        <strong>Reviewer:</strong> SIGGRAPH Asia <small>x1</small>, ECCV{" "}
+        <small>x2</small>, IET Computer Vision <small>x1</small>
       </p>
 
       <p>
