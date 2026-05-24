@@ -53,8 +53,8 @@ function App() {
         .
       </p>
       <p>
-        <strong>Research Interests:</strong> 3D Reconstruction, Differentiable
-        Rendering, 3D Representation, Interaction
+        <strong>Research Interests:</strong> 3D Representation, 3D
+        Reconstruction, Differentiable Rendering, Human-Computer Interaction
       </p>
       <h3>
         <strong>(2019-2023)</strong>
@@ -82,10 +82,14 @@ function App() {
         composed scenes through a novel LOD approach. Inspired by Nanite in
         Unreal Engine 5, V3DG processes detailed 3D assets into clusters at
         various granularities offline, and selectively renders 3D Gaussians at
-        runtime - flexibly balancing rendering speed and visual fidelity based on
-        user-defined tolerances.
+        runtime - flexibly balancing rendering speed and visual fidelity based
+        on user-defined tolerances.
       </p>
-      <img className="publication-image" src="/V3DG.jpg" alt="V3DG paper teaser" />
+      <img
+        className="publication-image"
+        src="/V3DG.jpg"
+        alt="V3DG paper teaser"
+      />
       <p>
         <strong>EAG-PT (SIGGRAPH 2026):</strong>{" "}
         <a href="https://eag-pt.github.io">Project Page</a>,{" "}
@@ -99,9 +103,10 @@ function App() {
       <p className="paper-intro">
         EAG-PT reconstructs indoor scenes with 2D Gaussians for editable diffuse
         global illumination. By separating emissive and non-emissive components
-        and combining efficient reconstruction with path tracing, it enables more
-        natural, physically consistent scene editing than radiance-field methods,
-        while avoiding the geometry limitations of mesh-based inverse rendering.
+        and combining efficient reconstruction with path tracing, it enables
+        more natural, physically consistent scene editing than radiance-field
+        methods, while avoiding the geometry limitations of mesh-based inverse
+        rendering.
       </p>
       <img
         className="publication-image"
