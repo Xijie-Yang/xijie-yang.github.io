@@ -10,28 +10,38 @@ function App() {
       <h2>About</h2>
 
       <p>
-        <span title="杨希杰">Xijie Yang</span>
+        <strong>Xijie Yang | 杨希杰</strong>
       </p>
 
       <h3>
-        <strong>(2023-present)</strong>
+        <strong>(2023 - 2028 expected)</strong>
       </h3>
       <p>
-        <strong>Ph.D. candidate</strong> in{" "}
+        <strong>Ph.D. Candidate</strong>,{" "}
         <a
           href="http://www.en.cs.zju.edu.cn"
-          title="浙江大学计算机科学与技术学院"
+          title="浙江大学 计算机科学与技术学院"
         >
-          CS @ Zhejiang University
+          College of Computer Science and Technology, Zhejiang University
         </a>{" "}
-        <small>(ZJU)</small> | <strong>Intern</strong> in{" "}
+        <small>(ZJU)</small> and{" "}
         <a
           href="https://www.shlab.org.cn"
-          title="上海人工智能实验室具身智能中心"
+          title="上海人工智能实验室 物理智能中心"
         >
-          Embodied AI Center @ Shanghai Artificial Intelligence Laboratory
+          Physical AI Center, Shanghai Artificial Intelligence Laboratory
         </a>{" "}
-        <small>(SH AILAB)</small>
+        <small>(SH AI Lab)</small>
+      </p>
+      <p>
+      <strong>Supervised</strong> by{" "}
+        <a href="https://datascience.hku.hk/people/bo-dai/" title="戴勃">
+          Prof. Bo Dai
+        </a>{" "}
+        and{" "}
+        <a href="https://www.ie.cuhk.edu.hk/faculty/lin-dahua/" title="林达华">
+          Prof. Dahua Lin
+        </a>
       </p>
       <p>
         <strong>Mentored</strong> by{" "}
@@ -42,27 +52,18 @@ function App() {
         <a href="https://mulinyu.github.io" title="于沐霖">
           Dr. Mulin Yu
         </a>
-        ; <strong>Supervised</strong> by{" "}
-        <a href="https://datascience.hku.hk/people/bo-dai/" title="戴勃">
-          Prof. Bo Dai
-        </a>{" "}
-        and{" "}
-        <a href="https://www.ie.cuhk.edu.hk/faculty/lin-dahua/" title="林达华">
-          Prof. Dahua Lin
-        </a>
-        .
       </p>
       <p>
         <strong>Research Interests:</strong> 3D Representation, 3D
         Reconstruction, Differentiable Rendering, Human-Computer Interaction
       </p>
       <h3>
-        <strong>(2019-2023)</strong>
+        <strong>(2019 - 2023)</strong>
       </h3>
       <p>
-        B.S. in{" "}
+        <strong>B.S.</strong>,{" "}
         <a href="https://www.ee.tsinghua.edu.cn/en/" title="清华大学电子工程系">
-          EE @ Tsinghua University
+          Department of Electronic Engineering, Tsinghua University
         </a>{" "}
         <small>(THU)</small>
       </p>
@@ -199,7 +200,7 @@ function App() {
       </p>
 
       <p>
-        <strong>Reviewer:</strong> SIGGRAPH Asia <small>x1</small>, ECCV{" "}
+        <strong>Reviewer:</strong> SIGGRAPH Asia <small>x2</small>, ECCV{" "}
         <small>x2</small>, IET Computer Vision <small>x1</small>
       </p>
 
