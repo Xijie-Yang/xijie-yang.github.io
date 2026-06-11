@@ -17,7 +17,7 @@ function App() {
         <strong>(2023 - 2028 expected)</strong>
       </h3>
       <p>
-        <strong>Ph.D. Candidate</strong>,{" "}
+        <strong>Ph.D. Candidate</strong> at{" "}
         <a
           href="http://www.en.cs.zju.edu.cn"
           title="浙江大学 计算机科学与技术学院"
@@ -34,34 +34,40 @@ function App() {
         <small>(SH AI Lab)</small>
       </p>
       <p>
-      <strong>Supervised</strong> by{" "}
+        <strong>Research Interests:</strong> Embodied AI, Human-Computer
+        Interaction, 3D Representation, 3D Reconstruction, Differentiable
+        Rendering
+      </p>
+      <p>
+        <strong>Supervisors:</strong>{" "}
         <a href="https://datascience.hku.hk/people/bo-dai/" title="戴勃">
           Prof. Bo Dai
-        </a>{" "}
-        and{" "}
+        </a>
+        ,{" "}
         <a href="https://www.ie.cuhk.edu.hk/faculty/lin-dahua/" title="林达华">
           Prof. Dahua Lin
         </a>
       </p>
       <p>
-        <strong>Mentored</strong> by{" "}
+        <strong>Mentors:</strong>{" "}
         <a href="https://eveneveno.github.io/lnxu/" title="徐霖宁">
           Dr. Linning Xu
-        </a>{" "}
-        and{" "}
+        </a>
+        ,{" "}
         <a href="https://mulinyu.github.io" title="于沐霖">
           Dr. Mulin Yu
         </a>
+        ,{" "}
+        <a href="https://inspirelt.github.io/" title="鲁涛">
+          Dr. Tao Lu
+        </a>
       </p>
-      <p>
-        <strong>Research Interests:</strong> 3D Representation, 3D
-        Reconstruction, Differentiable Rendering, Human-Computer Interaction
-      </p>
+
       <h3>
         <strong>(2019 - 2023)</strong>
       </h3>
       <p>
-        <strong>B.S.</strong>,{" "}
+        <strong>B.S.</strong> at{" "}
         <a href="https://www.ee.tsinghua.edu.cn/en/" title="清华大学电子工程系">
           Department of Electronic Engineering, Tsinghua University
         </a>{" "}
@@ -71,26 +77,6 @@ function App() {
       <h2>Publications</h2>
 
       {/* WIP add authors, teaser, abs / brief intro */}
-      <p>
-        <strong>V3DG (SIGGRAPH 2025):</strong>{" "}
-        <a href="https://xijie-yang.github.io/V3DG/">Project Page</a>,{" "}
-        <a href="https://arxiv.org/abs/2505.06523">Paper (arXiv)</a>,{" "}
-        <a href="https://doi.org/10.1145/3721238.3730602">Paper (Publisher)</a>,{" "}
-        <a href="https://github.com/city-super/V3DG">Code</a>
-      </p>
-      <p className="paper-intro">
-        V3DG achieves real-time rendering of massive 3D Gaussians in large
-        composed scenes through a novel LOD approach. Inspired by Nanite in
-        Unreal Engine 5, V3DG processes detailed 3D assets into clusters at
-        various granularities offline, and selectively renders 3D Gaussians at
-        runtime - flexibly balancing rendering speed and visual fidelity based
-        on user-defined tolerances.
-      </p>
-      <img
-        className="publication-image"
-        src="/V3DG.jpg"
-        alt="V3DG paper teaser"
-      />
       <p>
         <strong>EAG-PT (SIGGRAPH 2026):</strong>{" "}
         <a href="https://eag-pt.github.io">Project Page</a>,{" "}
@@ -113,6 +99,26 @@ function App() {
         className="publication-image"
         src="/EAG-PT.jpg"
         alt="EAG-PT paper teaser"
+      />
+      <p>
+        <strong>V3DG (SIGGRAPH 2025):</strong>{" "}
+        <a href="https://xijie-yang.github.io/V3DG/">Project Page</a>,{" "}
+        <a href="https://arxiv.org/abs/2505.06523">Paper (arXiv)</a>,{" "}
+        <a href="https://doi.org/10.1145/3721238.3730602">Paper (Publisher)</a>,{" "}
+        <a href="https://github.com/city-super/V3DG">Code</a>
+      </p>
+      <p className="paper-intro">
+        V3DG achieves real-time rendering of massive 3D Gaussians in large
+        composed scenes through a novel LOD approach. Inspired by Nanite in
+        Unreal Engine 5, V3DG processes detailed 3D assets into clusters at
+        various granularities offline, and selectively renders 3D Gaussians at
+        runtime - flexibly balancing rendering speed and visual fidelity based
+        on user-defined tolerances.
+      </p>
+      <img
+        className="publication-image"
+        src="/V3DG.jpg"
+        alt="V3DG paper teaser"
       />
 
       <h2>Contact</h2>
