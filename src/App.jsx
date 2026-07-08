@@ -206,7 +206,7 @@ function App() {
       </p>
 
       <p>
-        <strong>Reviewer:</strong> SIGGRAPH Asia <small>x2</small>, ECCV{" "}
+        <strong>Reviewer:</strong> SIGGRAPH <small>x4</small>, ECCV{" "}
         <small>x2</small>, IET Computer Vision <small>x1</small>
       </p>
 
