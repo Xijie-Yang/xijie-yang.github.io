@@ -34,7 +34,7 @@ function App() {
         <small>(SH AI Lab)</small>
       </p>
       <p>
-        <strong>Research Interests:</strong> Embodied AI, Human-Computer
+        <strong>Research Interests:</strong> Embodied AI, Human-Robot
         Interaction, 3D Representation, 3D Reconstruction, Differentiable
         Rendering
       </p>
@@ -76,15 +76,11 @@ function App() {
 
       <h2>Publications</h2>
 
-      {/* WIP add authors, teaser, abs / brief intro */}
       <p>
         <strong>EAG-PT (SIGGRAPH 2026):</strong>{" "}
         <a href="https://eag-pt.github.io">Project Page</a>,{" "}
-        <a href="https://arxiv.org/abs/2601.23065">Paper</a>,{" "}
-        {/* <a href="https://doi.org/10.1145/3799902.3811054">
-          [WIP] Paper (Publisher)
-        </a>
-        ,  */}
+        <a href="https://arxiv.org/abs/2601.23065">Paper (arXiv)</a>,{" "}
+        <a href="https://doi.org/10.1145/3799902.3811054">Paper (Publisher)</a>,{" "}
         <a href="https://github.com/InternRobotics/EAG-PT">Code</a>
       </p>
       <p className="paper-intro">
