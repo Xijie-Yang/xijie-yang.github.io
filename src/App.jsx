@@ -102,6 +102,12 @@ function App() {
         <small>(THU)</small>
       </p>
 
+      <h2>Ongoing Project</h2>
+
+      <p>
+        <strong>Robot Control Policies with Force and Tactile Feedback</strong>
+      </p>
+
       <h2>Publications</h2>
 
       <p>
