@@ -19,17 +19,35 @@ function App() {
       <p>
         <strong>Ph.D. Candidate</strong> at{" "}
         <a
+          className="affiliation-link"
           href="http://www.en.cs.zju.edu.cn"
           title="浙江大学 计算机科学与技术学院"
         >
-          College of Computer Science and Technology, Zhejiang University
+          <img
+            className="affiliation-icon"
+            src="/zju-logo.png"
+            alt=""
+            aria-hidden="true"
+          />
+          <span>
+            College of Computer Science and Technology, Zhejiang University
+          </span>
         </a>{" "}
         <small>(ZJU)</small> and{" "}
         <a
+          className="affiliation-link"
           href="https://www.shlab.org.cn"
           title="上海人工智能实验室 物理智能中心"
         >
-          Physical AI Center, Shanghai Artificial Intelligence Laboratory
+          <img
+            className="affiliation-icon affiliation-icon--sh-ai-lab"
+            src="/sh-ai-lab-logo.png"
+            alt=""
+            aria-hidden="true"
+          />
+          <span>
+            Physical AI Center, Shanghai Artificial Intelligence Laboratory
+          </span>
         </a>{" "}
         <small>(SH AI Lab)</small>
       </p>
@@ -68,8 +86,18 @@ function App() {
       </h3>
       <p>
         <strong>B.S.</strong> at{" "}
-        <a href="https://www.ee.tsinghua.edu.cn/en/" title="清华大学电子工程系">
-          Department of Electronic Engineering, Tsinghua University
+        <a
+          className="affiliation-link"
+          href="https://www.ee.tsinghua.edu.cn/en/"
+          title="清华大学电子工程系"
+        >
+          <img
+            className="affiliation-icon"
+            src="/thu-logo.png"
+            alt=""
+            aria-hidden="true"
+          />
+          <span>Department of Electronic Engineering, Tsinghua University</span>
         </a>{" "}
         <small>(THU)</small>
       </p>
