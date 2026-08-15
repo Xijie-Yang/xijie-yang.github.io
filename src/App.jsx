@@ -58,25 +58,28 @@ function App() {
       </p>
       <p>
         <strong>Supervisors:</strong>{" "}
-        <a href="https://datascience.hku.hk/people/bo-dai/" title="戴勃">
+        <a href="https://datascience.hku.hk/people/bo-dai/" title="戴勃教授">
           Prof. Bo Dai
         </a>
         ,{" "}
-        <a href="https://www.ie.cuhk.edu.hk/faculty/lin-dahua/" title="林达华">
+        <a
+          href="https://www.ie.cuhk.edu.hk/faculty/lin-dahua/"
+          title="林达华教授"
+        >
           Prof. Dahua Lin
         </a>
       </p>
       <p>
         <strong>Mentors:</strong>{" "}
-        <a href="https://eveneveno.github.io/lnxu/" title="徐霖宁">
+        <a href="https://eveneveno.github.io/lnxu/" title="徐霖宁博士">
           Dr. Linning Xu
         </a>
         ,{" "}
-        <a href="https://mulinyu.github.io" title="于沐霖">
+        <a href="https://mulinyu.github.io" title="于沐霖博士">
           Dr. Mulin Yu
         </a>
         ,{" "}
-        <a href="https://inspirelt.github.io/" title="鲁涛">
+        <a href="https://inspirelt.github.io/" title="鲁涛博士">
           Dr. Tao Lu
         </a>
       </p>
