@@ -20,8 +20,6 @@ function App() {
         />
       </header>
 
-      {/* WIP a brief introduction */}
-
       <h3>
         <strong>(2023 - 2028 expected)</strong>
       </h3>
@@ -114,6 +112,21 @@ function App() {
         <small>(THU)</small>
       </p>
 
+      <h2>Contact</h2>
+
+      <p>
+        <strong>WeChat:</strong> y564197835
+      </p>
+      <p>
+        <strong>Personal Email:</strong>{" "}
+        <a href="mailto:564197835@qq.com">564197835@qq.com</a>
+      </p>
+      <p>
+        <strong>Affliation Emails:</strong>{" "}
+        <a href="mailto:yangxijie@pjlab.org.cn">yangxijie@pjlab.org.cn</a>,{" "}
+        <a href="mailto:yangxijie@zju.edu.cn">yangxijie@zju.edu.cn</a>
+      </p>
+
       <h2>Ongoing Project</h2>
 
       <p>
@@ -169,21 +182,6 @@ function App() {
         src="/V3DG.jpg"
         alt="V3DG paper teaser"
       />
-
-      <h2>Contact</h2>
-
-      <p>
-        <strong>Personal Email:</strong>{" "}
-        <a href="mailto:564197835@qq.com">564197835@qq.com</a>
-      </p>
-      <p>
-        <strong>Affliation Emails:</strong>{" "}
-        <a href="mailto:yangxijie@pjlab.org.cn">yangxijie@pjlab.org.cn</a>,{" "}
-        <a href="mailto:yangxijie@zju.edu.cn">yangxijie@zju.edu.cn</a>
-      </p>
-      <p>
-        <strong>WeChat:</strong> y564197835
-      </p>
 
       <h2>Links</h2>
 
