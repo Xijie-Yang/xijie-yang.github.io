@@ -20,22 +20,6 @@ function App() {
         <strong>Ph.D. Candidate</strong> at{" "}
         <a
           className="affiliation-link"
-          href="http://www.en.cs.zju.edu.cn"
-          title="浙江大学 计算机科学与技术学院"
-        >
-          <img
-            className="affiliation-icon"
-            src="/zju-logo.png"
-            alt=""
-            aria-hidden="true"
-          />
-          <span>
-            College of Computer Science and Technology, Zhejiang University
-          </span>
-        </a>{" "}
-        <small>(ZJU)</small> and{" "}
-        <a
-          className="affiliation-link"
           href="https://www.shlab.org.cn"
           title="上海人工智能实验室 物理智能中心"
         >
@@ -49,7 +33,23 @@ function App() {
             Physical AI Center, Shanghai Artificial Intelligence Laboratory
           </span>
         </a>{" "}
-        <small>(SH AI Lab)</small>
+        <small>(SH AI Lab)</small> and{" "}
+        <a
+          className="affiliation-link"
+          href="http://www.en.cs.zju.edu.cn"
+          title="浙江大学 计算机科学与技术学院"
+        >
+          <img
+            className="affiliation-icon"
+            src="/zju-logo.png"
+            alt=""
+            aria-hidden="true"
+          />
+          <span>
+            College of Computer Science and Technology, Zhejiang University
+          </span>
+        </a>{" "}
+        <small>(ZJU)</small>
       </p>
       <p>
         <strong>Research Interests:</strong> Embodied AI, Human-Robot
