@@ -114,7 +114,12 @@ function App() {
       <h2>Publications</h2>
 
       <p>
-        <strong>EAG-PT (SIGGRAPH 2026):</strong>{" "}
+        <strong>
+          EAG-PT: Emission-Aware Gaussians and Path Tracing [SIGGRAPH 2026]
+        </strong>
+      </p>
+
+      <p>
         <a href="https://eag-pt.github.io">Project Page</a>,{" "}
         <a href="https://arxiv.org/abs/2601.23065">Paper (arXiv)</a>,{" "}
         <a href="https://doi.org/10.1145/3799902.3811054">Paper (Publisher)</a>,{" "}
@@ -134,7 +139,9 @@ function App() {
         alt="EAG-PT paper teaser"
       />
       <p>
-        <strong>V3DG (SIGGRAPH 2025):</strong>{" "}
+        <strong>V3DG: Virtualized 3D Gaussians [SIGGRAPH 2025]</strong>
+      </p>
+      <p>
         <a href="https://xijie-yang.github.io/V3DG/">Project Page</a>,{" "}
         <a href="https://arxiv.org/abs/2505.06523">Paper (arXiv)</a>,{" "}
         <a href="https://doi.org/10.1145/3721238.3730602">Paper (Publisher)</a>,{" "}
