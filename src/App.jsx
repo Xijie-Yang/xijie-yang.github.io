@@ -3,15 +3,24 @@ import "./App.css";
 function App() {
   return (
     <>
-      <h1>Xijie Yang | Researcher Homepage</h1>
+      <header className="profile-header">
+        <div className="profile-intro">
+          <h1>Xijie Yang | Researcher Homepage</h1>
+
+          <h2>About</h2>
+
+          <p>
+            <strong>Xijie Yang | 杨希杰</strong>
+          </p>
+        </div>
+        <img
+          className="profile-photo"
+          src="/xijie-yang.jpg"
+          alt="Portrait of Xijie Yang"
+        />
+      </header>
 
       {/* WIP a brief introduction */}
-
-      <h2>About</h2>
-
-      <p>
-        <strong>Xijie Yang | 杨希杰</strong>
-      </p>
 
       <h3>
         <strong>(2023 - 2028 expected)</strong>
