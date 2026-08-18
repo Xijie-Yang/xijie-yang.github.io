@@ -253,8 +253,35 @@ function App() {
       </p>
 
       <p>
-        <strong>Reviewer:</strong> SIGGRAPH <small>x4</small>, ECCV{" "}
-        <small>x2</small>, IET Computer Vision <small>x1</small>
+        <strong>Reviewer:</strong>{" "}
+        <a
+          href="https://dl.acm.org/conference/siggraph/proceedings"
+          title="Special Interest Group on Computer Graphics and Interactive Techniques"
+        >
+          SIGGRAPH
+        </a>{" "}
+        <small>x4</small>,{" "}
+        <a
+          href="https://eccv.ecva.net"
+          title="European Conference on Computer Vision"
+        >
+          ECCV
+        </a>{" "}
+        <small>x2</small>,{" "}
+        <a
+          href="https://www.sciencedirect.com/journal/computer-vision-and-image-understanding"
+          title="Computer Vision and Image Understanding "
+        >
+          CVIU
+        </a>{" "}
+        <small>x1</small>,{" "}
+        <a
+          href="https://digital-library.theiet.org/journal/iet-cvi"
+          title="IET Computer Vision"
+        >
+          IET-CVI
+        </a>{" "}
+        <small>x1</small>
       </p>
 
       <p>
