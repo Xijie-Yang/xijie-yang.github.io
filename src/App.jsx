@@ -99,7 +99,7 @@ function App() {
         <a
           className="affiliation-link"
           href="https://www.ee.tsinghua.edu.cn/en/"
-          title="清华大学电子工程系"
+          title="清华大学 电子工程系"
         >
           <img
             className="affiliation-icon"
