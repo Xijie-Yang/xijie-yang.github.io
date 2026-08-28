@@ -122,7 +122,7 @@ function App() {
         <a href="mailto:564197835@qq.com">564197835@qq.com</a>
       </p>
       <p>
-        <strong>Affliation Emails:</strong>{" "}
+        <strong>Affiliation Emails:</strong>{" "}
         <a href="mailto:yangxijie@pjlab.org.cn">yangxijie@pjlab.org.cn</a>,{" "}
         <a href="mailto:yangxijie@zju.edu.cn">yangxijie@zju.edu.cn</a>
       </p>
@@ -234,11 +234,11 @@ function App() {
           RacoonAccountBook
         </a>{" "}
         <small>
-          (Second Prize in 2021 Mobile Application Innovation Contest)
+          (Second Prize in the 2021 Mobile Application Innovation Contest)
         </small>
         , <a href="https://www.bilibili.com/video/BV1Jd4y1g7eX/">Audioc</a>{" "}
         <small>
-          (Second Prize in 2022 Mobile Application Innovation Contest)
+          (Second Prize in the 2022 Mobile Application Innovation Contest)
         </small>
         , <a href="https://github.com/Ex-Studio/ExSticky">ExSticky</a>
       </p>
@@ -285,8 +285,8 @@ function App() {
       </p>
 
       <p>
-        <strong>Languages:</strong> native Chinese, fluent English, beginner
-        Japanese
+        <strong>Languages:</strong> Chinese (native), English (fluent), Japanese
+        (beginner)
       </p>
 
       <p>
