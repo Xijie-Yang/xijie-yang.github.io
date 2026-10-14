@@ -281,7 +281,14 @@ function App() {
         >
           IET-CVI
         </a>{" "}
-        <small>x1</small>
+        <small>x1</small>,{" "}
+        <a
+          href="https://wacv.thecvf.com"
+          title="Winter Conference on Applications of Computer Vision"
+        >
+          WACV
+        </a>{" "}
+        <small>x2</small>
       </p>
 
       <p>
