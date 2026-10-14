@@ -137,10 +137,39 @@ function App() {
 
       <p>
         <strong>
+          InternW0-Δ: An Embodied World Model Bridging Predictive Dynamics and
+          Actions [arXiv]
+        </strong>
+      </p>
+      <p>
+        <a href="https://internrobotics.github.io/InternW0-Delta/">
+          Project Page
+        </a>
+        , <a href="https://arxiv.org/abs/2609.31394">Paper</a>,{" "}
+        <a href="https://github.com/InternRobotics/InternW0-Delta">Code</a>
+      </p>
+      <p className="paper-intro">
+        InternW0-Δ enables generalist robot manipulation by unifying visual
+        dynamics and action generation, pretrained on over 20,000 hours of robot
+        and human demonstrations. By coupling video and action experts with
+        semantic, geometric, and motion priors, it uses a novel Causal Imprint
+        mechanism to anticipate action-relevant scene changes, improving
+        manipulation performance without generating future videos at inference.
+      </p>
+      <p className="paper-intro">
+        My role: Post-training and real-robot deployment.
+      </p>
+      <img
+        className="publication-image"
+        src="/InternW0-Δ.png"
+        alt="InternW0-Δ paper teaser"
+      />
+
+      <p>
+        <strong>
           EAG-PT: Emission-Aware Gaussians and Path Tracing [SIGGRAPH 2026]
         </strong>
       </p>
-
       <p>
         <a href="https://eag-pt.github.io">Project Page</a>,{" "}
         <a href="https://arxiv.org/abs/2601.23065">Paper (arXiv)</a>,{" "}
@@ -160,6 +189,7 @@ function App() {
         src="/EAG-PT.jpg"
         alt="EAG-PT paper teaser"
       />
+
       <p>
         <strong>V3DG: Virtualized 3D Gaussians [SIGGRAPH 2025]</strong>
       </p>
